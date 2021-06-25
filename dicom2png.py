@@ -15,6 +15,9 @@ chosen to be appended to the PNG filename.
 Sifan Ye
 sye8 at cs dot stanford dot edu
 2021
+
+See repository at
+https://github.com/sye8/dicom2png
 """
 
 import argparse
