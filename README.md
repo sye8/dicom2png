@@ -1,4 +1,4 @@
-# Dicom2py
+# dicom2py
 
 Extracts the pixel arrays from dicom files
 in a directory and save those as 16-bit png.
